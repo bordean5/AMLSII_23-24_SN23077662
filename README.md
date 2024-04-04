@@ -43,7 +43,7 @@ This project provides a solution to the Kaggle competition: "Cassava Leaf Diseas
 ```
 - `Datasets/`:Please download and unzip the dataset here(please contain folder:"cassava-leaf-disease-classification")
 - `results/`: Empty folder, save the model if trained manually
-- `Models`: Contains three pre-trained models
+- `Models/`: Contains three pre-trained models
 - `.gitattributes`: Git attributes file for large file(Git lfs).
 - `cassava_classification`: Contains functions for the whole project used by main.py
 - `main.py`: The main script for executing the whole project. 
